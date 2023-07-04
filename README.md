@@ -31,10 +31,7 @@ pip3 install requests
 python3 main.py
 ```
 ## Options
-
-Make sure to replace the dir1 and dir2 variables in the example usage section with the actual directories you want to compare.
-
-The tool will calculate and display the changed files, added files, and deleted files between the two directories.
+![Gud Baldr Password Checker Image](https://github.com/sercanradulfr/Gud-Baldr-Threat-Intelligence-Integration/blob/main/gbtii.png "Gud Baldr Threat Intelligence Integration Image")
 
 
 
